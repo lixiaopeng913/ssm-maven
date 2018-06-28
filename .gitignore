@@ -1,0 +1,17 @@
+#filter .sql .sln .config etc...
+*.project
+*.settings
+*.project
+*.classpath
+*.settings
+*.iws
+*.ipr
+*.idea
+*.iml
+
+#filter folders
+/target/
+.idea/
+/bin/
+logs/
+rebel.xml
